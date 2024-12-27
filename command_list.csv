@@ -1,0 +1,44 @@
+    1  -с && rm~/.bash_history
+    2  -с&&rm~/.bash_history
+    3  history-с && rm~/.bash_history
+    4  history -с && rm~/.bash_history
+    5  user.name 
+    6  git config --global user.name "Anton Kyrychenko"
+    7  git config --global user.email "kirichenko036@gmail.com"
+    8  git clone
+    9  
+   10  git clone 
+   11  git clone https://github.com/Tanatos212/HW_10.git
+   12  cd HW_10
+   13  touch text_ignore.txt
+   14  git status
+   15  nano .gitignore.txt
+   16  git status
+   17  nano .gitignore
+   18  git add .
+   19  git status
+   20  git commit -m "task completed"
+   21  git status
+   22  touch main_test.txt
+   23  git status
+   24  add file main_test.txt
+   25  git add main_test,txt
+   26  git add main_test.txt
+   27  git commit -m "task completed"
+   28  git branch develop
+   29  cd develop
+   30  git checkout develop
+   31  git branch develop
+   32  touch develop_test.txt
+   33  nano develop_test.txt
+   34  git status
+   35  git add develop_test.txt
+   36  git add develop_test.txt
+   37  add commit -m "task completed"
+   38  git commit -m "task completed"
+   39  git status
+   40  git checkout main
+   41  merge
+   42  merge main develop
+   43  git merge main develop
+   44  history > command_list.csv
